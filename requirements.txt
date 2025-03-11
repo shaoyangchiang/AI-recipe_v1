@@ -1,0 +1,12 @@
+flask
+line-bot-sdk
+gunicorn
+flask-cors
+pandas
+faiss-cpu
+sentence-transformers
+numpy
+firebase-admin
+python-dotenv
+openai
+gdown 
